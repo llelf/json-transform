@@ -74,7 +74,7 @@ str_to_bin(String, Line) ->
          , Line
          , {string, Line, String}
          , default
-         , default
+         , [utf8]
         }
        ]
     }.

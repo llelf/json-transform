@@ -14,7 +14,8 @@ test(V) ->
                   "height"    : (-1080),
                   "interlace" : false,
                   "frame rate": V
-                }
+                },
+      "погода": "🌦️"
      }}>>.
 
 test2() ->
